@@ -16,9 +16,9 @@
 ![K33](https://user-images.githubusercontent.com/93004722/140081560-7e5be27f-20d5-4c95-8176-afb0c8aa5c9b.PNG)
 ## 4. Prisma Segitiga
 ### Flowchart
-![P4](https://user-images.githubusercontent.com/93004722/139871792-a91ee486-b5b8-4214-93a2-51897a5ef947.PNG)
+![K4](https://user-images.githubusercontent.com/93004722/140086351-6f04ce5c-80ff-4546-9e15-46b614fc20fd.PNG)
 ### VS Code
-![P44](https://user-images.githubusercontent.com/93004722/139872260-1bc66aab-7194-4094-81a7-5e42edda87a0.PNG)
+![K44](https://user-images.githubusercontent.com/93004722/140088550-ce737c46-716c-42ad-b9b8-5d54d5e7d605.PNG)
 ## 5. Limas Segitiga
 ### Flowchart
 ![P5](https://user-images.githubusercontent.com/93004722/139873748-4db9f715-629e-4d99-bfcc-2281c8277dc0.PNG)
