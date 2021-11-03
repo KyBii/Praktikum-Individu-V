@@ -21,21 +21,21 @@
 ![K44](https://user-images.githubusercontent.com/93004722/140088550-ce737c46-716c-42ad-b9b8-5d54d5e7d605.PNG)
 ## 5. Limas Segitiga
 ### Flowchart
-![P5](https://user-images.githubusercontent.com/93004722/139873748-4db9f715-629e-4d99-bfcc-2281c8277dc0.PNG)
+![K5](https://user-images.githubusercontent.com/93004722/140089857-26b9ff8a-100c-44b7-b6c2-9d8cdcabefe3.PNG)
 ### VS Code
-![P55](https://user-images.githubusercontent.com/93004722/139874481-586003ed-e31c-447c-8e76-d7adb6d962b0.PNG)
+![K55](https://user-images.githubusercontent.com/93004722/140091229-37474dcd-d99f-4802-bcdb-965533608ea5.PNG)
 ## 6. Selindir Tabung
 ### Flowchart
-![P6](https://user-images.githubusercontent.com/93004722/139875775-9896a938-f227-4371-8b36-b08700663fc8.PNG)
+![K6](https://user-images.githubusercontent.com/93004722/140091687-8650e692-86d2-4f3a-8f7f-f9dff3189959.PNG)
 ### VS Code
-![P66](https://user-images.githubusercontent.com/93004722/139876182-64573f69-b72b-4ed6-9385-31d0f0f4760f.PNG)
+![K66](https://user-images.githubusercontent.com/93004722/140093117-589f940b-16e3-40e7-a358-d20b07d6933e.PNG)
 ## 7. Kerucut
 ### Flowchart
-![P7](https://user-images.githubusercontent.com/93004722/139877168-926f3a42-7ae2-4aad-bf71-d20e958ce9eb.PNG)
+![K7](https://user-images.githubusercontent.com/93004722/140093568-1200fdf1-05f7-4b5d-a212-2b0d3facc307.PNG)
 ### VS Code
-![P77](https://user-images.githubusercontent.com/93004722/139877796-71316242-ce6a-4c5d-a2ab-92909398953f.PNG)
+![K77](https://user-images.githubusercontent.com/93004722/140094057-a6571129-55e1-46b8-af0b-f48aa34f3447.PNG)
 ## 8. Bola
 ### Flowchart
-![P8](https://user-images.githubusercontent.com/93004722/139879031-8ac7dd52-63c6-488b-8019-4fe2ad13872b.PNG)
+![K8](https://user-images.githubusercontent.com/93004722/140094508-3c9ad822-a521-43e4-85c5-fc93d0ff992f.PNG)
 ### VS Code
-![P88](https://user-images.githubusercontent.com/93004722/139879582-aba0d24c-3aab-41dd-941d-b4960bebb546.PNG)
+![K88](https://user-images.githubusercontent.com/93004722/140094919-4da6aa4e-5a0c-45d9-99d4-b7c6111b26c4.PNG)
