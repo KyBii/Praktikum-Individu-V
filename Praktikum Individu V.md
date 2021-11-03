@@ -3,17 +3,17 @@
 ### Flowchart
 ![K1](https://user-images.githubusercontent.com/93004722/140069427-05ff9630-8ac2-43c4-9ef2-11070244c9e4.PNG)
 ### VS Code
-![P11](https://user-images.githubusercontent.com/93004722/139867510-fff4bc16-2c8a-4a81-91c2-5bf8c8b17701.PNG)
-# 2. Balok
+![K11](https://user-images.githubusercontent.com/93004722/140072489-75df6d2c-1736-4698-9a56-ee72346b9ece.PNG)
+## 2. Balok
 ### Flowchart
-![P2](https://user-images.githubusercontent.com/93004722/139868743-6c6e2b42-10d3-4045-943e-5deec41eb47e.PNG)
+![K2](https://user-images.githubusercontent.com/93004722/140075322-c2bfdde5-7051-464c-a4c8-9477c146d6f8.PNG)
 ### VS Code
-![P22](https://user-images.githubusercontent.com/93004722/139869327-4e014153-a68f-4816-a1c9-0d3ae2270533.PNG)
+![K22](https://user-images.githubusercontent.com/93004722/140079947-d91a6878-4f38-43cd-bc23-057b42c43ff7.PNG)
 ## 3. Limas Segiempat
 ### Flowchart
-![P3](https://user-images.githubusercontent.com/93004722/139870286-bc41aefe-551a-4ad6-9722-bdc30fb876d2.PNG)
+![K3](https://user-images.githubusercontent.com/93004722/140080133-6c97aa8f-382c-4632-9b8f-596ab1b6a1f1.PNG)
 ### VS Code
-![P33](https://user-images.githubusercontent.com/93004722/139870827-a1ec16f5-07cf-448f-ad3b-0f624ed8bd94.PNG)
+![K33](https://user-images.githubusercontent.com/93004722/140081560-7e5be27f-20d5-4c95-8176-afb0c8aa5c9b.PNG)
 ## 4. Prisma Segitiga
 ### Flowchart
 ![P4](https://user-images.githubusercontent.com/93004722/139871792-a91ee486-b5b8-4214-93a2-51897a5ef947.PNG)
